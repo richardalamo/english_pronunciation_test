@@ -1,0 +1,935 @@
+{
+    "PronunciationScore": 82.4,
+    "AccuracyScore": 88.0,
+    "FluencyScore": 87.0,
+    "CompletenessScore": 79.0,
+    "RecognizedText": "Beneath the bleak, blustery sky, a baffled Baker balanced a basket of buttery biscuits.",
+    "RawResponse": {
+        "Id": "34562abaa0574684a9025c34a1f0c02f",
+        "RecognitionStatus": "Success",
+        "Offset": 15700000,
+        "Duration": 78600000,
+        "Channel": 0,
+        "DisplayText": "Beneath the bleak, blustery sky, a baffled Baker balanced a basket of buttery biscuits.",
+        "SNR": 11.174547,
+        "NBest": [
+            {
+                "Confidence": 0.97128814,
+                "Lexical": "Beneath the bleak blustery sky a baffled baker balanced a basket of buttery biscuits",
+                "ITN": "Beneath the bleak blustery sky a baffled baker balanced a basket of buttery biscuits",
+                "MaskedITN": "beneath the bleak blustery sky a baffled baker balanced a basket of buttery biscuits",
+                "Display": "Beneath the bleak, blustery sky, a baffled Baker balanced a basket of buttery biscuits.",
+                "PronunciationAssessment": {
+                    "AccuracyScore": 88.0,
+                    "FluencyScore": 87.0,
+                    "CompletenessScore": 79.0,
+                    "PronScore": 82.4
+                },
+                "Words": [
+                    {
+                        "Word": "Beneath",
+                        "Offset": 15700000,
+                        "Duration": 6600000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 56.0,
+                            "ErrorType": "Mispronunciation"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "biy",
+                                "Grapheme": "be",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 62.0
+                                },
+                                "Offset": 15700000,
+                                "Duration": 1800000
+                            },
+                            {
+                                "Syllable": "niyth",
+                                "Grapheme": "neath",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 58.0
+                                },
+                                "Offset": 17600000,
+                                "Duration": 4700000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 49.0
+                                },
+                                "Offset": 15700000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "iy",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 17100000,
+                                "Duration": 400000
+                            },
+                            {
+                                "Phoneme": "n",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 17600000,
+                                "Duration": 1200000
+                            },
+                            {
+                                "Phoneme": "iy",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 54.0
+                                },
+                                "Offset": 18900000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "th",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 38.0
+                                },
+                                "Offset": 19900000,
+                                "Duration": 2400000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 23100000,
+                        "Duration": 1700000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "dhax",
+                                "Grapheme": "the",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 23100000,
+                                "Duration": 1700000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "dh",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 23100000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 24100000,
+                                "Duration": 700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "bleak",
+                        "Offset": 24900000,
+                        "Duration": 5700000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bliyk",
+                                "Grapheme": "bleak",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 24900000,
+                                "Duration": 5700000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 24900000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "l",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 25900000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "iy",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 26900000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "k",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 27900000,
+                                "Duration": 2700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "blustery",
+                        "Offset": 32900000,
+                        "Duration": 6000000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 90.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "blah",
+                                "Grapheme": "blus",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 75.0
+                                },
+                                "Offset": 32900000,
+                                "Duration": 2300000
+                            },
+                            {
+                                "Syllable": "stax",
+                                "Grapheme": "te",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 75.0
+                                },
+                                "Offset": 35300000,
+                                "Duration": 2300000
+                            },
+                            {
+                                "Syllable": "riy",
+                                "Grapheme": "ry",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 37700000,
+                                "Duration": 1200000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 72.0
+                                },
+                                "Offset": 32900000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "l",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 83.0
+                                },
+                                "Offset": 33900000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "ah",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 68.0
+                                },
+                                "Offset": 34700000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 71.0
+                                },
+                                "Offset": 35300000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "t",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 75.0
+                                },
+                                "Offset": 36300000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 80.0
+                                },
+                                "Offset": 37100000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "r",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 37700000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "iy",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 38300000,
+                                "Duration": 600000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "sky",
+                        "Offset": 39000000,
+                        "Duration": 5100000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "skay",
+                                "Grapheme": "sky",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 39000000,
+                                "Duration": 5100000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 39000000,
+                                "Duration": 800000
+                            },
+                            {
+                                "Phoneme": "k",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 39900000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "ay",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 41300000,
+                                "Duration": 2800000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 51600000,
+                        "Duration": 1800000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "ax",
+                                "Grapheme": "a",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 51600000,
+                                "Duration": 1800000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 51600000,
+                                "Duration": 1800000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "baffled",
+                        "Offset": 53500000,
+                        "Duration": 6500000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 58.0,
+                            "ErrorType": "Mispronunciation"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bae",
+                                "Grapheme": "baf",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 41.0
+                                },
+                                "Offset": 53500000,
+                                "Duration": 2500000
+                            },
+                            {
+                                "Syllable": "faxld",
+                                "Grapheme": "fled",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 67.0
+                                },
+                                "Offset": 56100000,
+                                "Duration": 3900000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 37.0
+                                },
+                                "Offset": 53500000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "ae",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 43.0
+                                },
+                                "Offset": 54500000,
+                                "Duration": 1500000
+                            },
+                            {
+                                "Phoneme": "f",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 58.0
+                                },
+                                "Offset": 56100000,
+                                "Duration": 1500000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 57700000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "l",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 59.0
+                                },
+                                "Offset": 58700000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "d",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 45.0
+                                },
+                                "Offset": 59500000,
+                                "Duration": 500000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "baker",
+                        "Offset": 60100000,
+                        "Duration": 5700000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bey",
+                                "Grapheme": "ba",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 60100000,
+                                "Duration": 2500000
+                            },
+                            {
+                                "Syllable": "kaxr",
+                                "Grapheme": "ker",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 62700000,
+                                "Duration": 3100000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 60100000,
+                                "Duration": 1100000
+                            },
+                            {
+                                "Phoneme": "ey",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 61300000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "k",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 62700000,
+                                "Duration": 1100000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 63900000,
+                                "Duration": 1100000
+                            },
+                            {
+                                "Phoneme": "r",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 65100000,
+                                "Duration": 700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "balanced",
+                        "Offset": 65900000,
+                        "Duration": 6500000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 98.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bae",
+                                "Grapheme": "bal",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 65900000,
+                                "Duration": 2100000
+                            },
+                            {
+                                "Syllable": "laxnst",
+                                "Grapheme": "anced",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 87.0
+                                },
+                                "Offset": 68100000,
+                                "Duration": 4300000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 65900000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "ae",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 67300000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "l",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 68100000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 69100000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "n",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 70100000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 67.0
+                                },
+                                "Offset": 70900000,
+                                "Duration": 800000
+                            },
+                            {
+                                "Phoneme": "t",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 60.0
+                                },
+                                "Offset": 71800000,
+                                "Duration": 600000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 72700000,
+                        "Duration": 1300000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "ax",
+                                "Grapheme": "a",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 72700000,
+                                "Duration": 1300000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 72700000,
+                                "Duration": 1300000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "basket",
+                        "Offset": 74100000,
+                        "Duration": 4900000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bae",
+                                "Grapheme": "bas",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 74100000,
+                                "Duration": 1500000
+                            },
+                            {
+                                "Syllable": "skiht",
+                                "Grapheme": "ket",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 75700000,
+                                "Duration": 3300000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 74100000,
+                                "Duration": 800000
+                            },
+                            {
+                                "Phoneme": "ae",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 75000000,
+                                "Duration": 600000
+                            },
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 75700000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "k",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 76700000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "ih",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 77700000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "t",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 78300000,
+                                "Duration": 700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 79100000,
+                        "Duration": 1300000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 100.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "axv",
+                                "Grapheme": "of",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 79100000,
+                                "Duration": 1300000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 79100000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "v",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 79700000,
+                                "Duration": 700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "buttery",
+                        "Offset": 80500000,
+                        "Duration": 5500000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 46.0,
+                            "ErrorType": "Mispronunciation"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bah",
+                                "Grapheme": "but",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 28.0
+                                },
+                                "Offset": 80500000,
+                                "Duration": 2100000
+                            },
+                            {
+                                "Syllable": "tax",
+                                "Grapheme": "te",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 51.0
+                                },
+                                "Offset": 82700000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Syllable": "riy",
+                                "Grapheme": "ry",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 84100000,
+                                "Duration": 1900000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 38.0
+                                },
+                                "Offset": 80500000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "ah",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 10.0
+                                },
+                                "Offset": 81900000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "t",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 44.0
+                                },
+                                "Offset": 82700000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "ax",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 61.0
+                                },
+                                "Offset": 83500000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "r",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 84100000,
+                                "Duration": 1100000
+                            },
+                            {
+                                "Phoneme": "iy",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 85300000,
+                                "Duration": 700000
+                            }
+                        ]
+                    },
+                    {
+                        "Word": "biscuits",
+                        "Offset": 86100000,
+                        "Duration": 8200000,
+                        "PronunciationAssessment": {
+                            "AccuracyScore": 78.0,
+                            "ErrorType": "None"
+                        },
+                        "Syllables": [
+                            {
+                                "Syllable": "bih",
+                                "Grapheme": "bis",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 82.0
+                                },
+                                "Offset": 86100000,
+                                "Duration": 2100000
+                            },
+                            {
+                                "Syllable": "skihts",
+                                "Grapheme": "cuits",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 62.0
+                                },
+                                "Offset": 88300000,
+                                "Duration": 6000000
+                            }
+                        ],
+                        "Phonemes": [
+                            {
+                                "Phoneme": "b",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 71.0
+                                },
+                                "Offset": 86100000,
+                                "Duration": 1300000
+                            },
+                            {
+                                "Phoneme": "ih",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 100.0
+                                },
+                                "Offset": 87500000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 75.0
+                                },
+                                "Offset": 88300000,
+                                "Duration": 900000
+                            },
+                            {
+                                "Phoneme": "k",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 57.0
+                                },
+                                "Offset": 89300000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "ih",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 64.0
+                                },
+                                "Offset": 90100000,
+                                "Duration": 500000
+                            },
+                            {
+                                "Phoneme": "t",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 67.0
+                                },
+                                "Offset": 90700000,
+                                "Duration": 700000
+                            },
+                            {
+                                "Phoneme": "s",
+                                "PronunciationAssessment": {
+                                    "AccuracyScore": 57.0
+                                },
+                                "Offset": 91500000,
+                                "Duration": 2800000
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
